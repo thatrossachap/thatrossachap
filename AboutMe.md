@@ -1,6 +1,6 @@
-Hi there! My name's Ross Anderson, I'm a essayist who writes about politics, culture, and technology, and I like building stuff online.
-You can find my work in <em>Los Angeles Magazine</em>, <em>The American Conservative</em>, <em>The Dispatch</em>, and more.
-I also was a 2020 <em>Tablet Magazine</em> fellow.
+<strong>Hi there!</strong> My name's Ross Anderson, I'm a essayist who writes about politics, culture, and technology, and I like building stuff online.
+<br>You can find my work in <em>Los Angeles Magazine</em>, <em>The American Conservative</em>, <em>The Dispatch</em>, and more.
+<br>I also was a 2020 <em>Tablet Magazine</em> fellow.
 <hr />
 I'm currently learning HTML, CSS, and Javascript, and will be releasing things in the near future.
 <br> <em>These are early days though so be patient!</em>
