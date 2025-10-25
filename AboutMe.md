@@ -1,4 +1,4 @@
-<strong>Hi there!</strong> My name's Ross Anderson, I'm the editor of <i>The Morning Dispatch<i>, the best morning news email you can get, and a tech columnist at <i>The New York Sun<i>, and I like building stuff online.
+<strong>Hi there!</strong> My name's Ross Anderson, I'm the editor of <i> The Morning Dispatch <i> , the best morning news email you can get, and a tech columnist at <i> The New York Sun <i>, and I like building stuff online.
 <hr />
 
 <hr />
