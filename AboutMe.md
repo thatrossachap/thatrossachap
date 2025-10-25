@@ -17,3 +17,7 @@ To check out what I do:
 thatrossachap/thatrossachap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/6550f535b10a1e0878f07db2/881dcf6f-be78-40bb-b883-7c715eda8bf7/DSCF3531+-+Edited+1.jpg?format=2500w" alt="Ross Anderson" width="400">
+</div>
